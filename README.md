@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is **Yoojeong Kim**.
 
-### 🫡 I am a senior undergraduate student at Sungkyunkwan University, Korea. I am majoring in **Culture and Technology** in the school of Global Convergence.
-### 💭 I'm a **wandering creator** who floats somewhere between technology and art, and between developer and artist.
-### 🍀 I want to create a warm and meaningful content that can brighten people.
+#### 🫡 I am a senior undergraduate student at Sungkyunkwan University, Korea. I am majoring in **Culture and Technology** in the school of Global Convergence.
+#### 💭 I'm a **wandering creator** who floats somewhere between technology and art, and between developer and artist.
+#### 🍀 I want to create a warm and meaningful content that can brighten people.
 
 <!--
 **Yoojeong-Kim/Yoojeong-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
